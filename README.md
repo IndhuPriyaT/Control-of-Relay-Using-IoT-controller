@@ -47,11 +47,11 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 <img src="https://github.com/user-attachments/assets/5dcfa559-8c1c-471b-a8d4-18b44eabfe4b" width="600" height="500" />
 
 ## OUTPUT:
-# Led Off
+# Lamp Off
 <img src="https://github.com/user-attachments/assets/aef5d221-d9aa-4645-b012-56d6901dfa2e" width="600" height="500" />
 
 
-# Led On
+# Lamp On
 <img src="https://github.com/user-attachments/assets/54e09582-06fa-4f21-896d-c0abed877859" width="600" height="500" />
 
 
